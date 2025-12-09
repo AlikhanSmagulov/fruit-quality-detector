@@ -28,27 +28,6 @@ The project is built using **Python**, **TensorFlow**, and **Tkinter**, and is d
 
 ---
 
-## **📂 Folder Structure**
-FruitQualityProject/
-│
-├─ dataset/
-│ ├─ train/ # Training images (fresh & rotten fruits)
-│ └─ val/ # Validation images (created automatically)
-│
-├─ models/
-│ └─ fruit_quality_mobilenetv2.h5 # Trained model
-│
-├─ scripts/
-│ ├─ prepare_dataset.py # Prepares validation split
-│ ├─ train_model.py # Train MobileNetV2 model
-│ ├─ predict.py # Command-line prediction
-│ └─ gui_modern.py # Modern Tkinter GUI
-│
-└─ README.md
-
-
----
-
 ## **⚙️ Software Used**
 
 - Python 3.10+  
